@@ -1,4 +1,4 @@
-# Cracking Salts
+# BF Passwords
 
 The following Python script a brute-force for encrypted passwords (using the native built-in module called `Crypt`).
 
